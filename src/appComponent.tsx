@@ -84,8 +84,9 @@ function ErrorPopup() {
                     </div>
                 </div>
                 <div className="errorPopup__body">
-                    We're getting more traffic than we can handle right now.
-                    Please try again later.
+                    We're getting more traffic than our servers can handle right now.
+                    To avoid these limits and to purchase reserved capacity, you can
+                    upgrade to <a href="/">Cursor Pro</a> for $20/month.
                     <br />
                 </div>
             </div>
